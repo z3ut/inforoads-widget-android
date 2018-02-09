@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Inforoads Weather</string>
+
+  <string name="city_spinner_header">Ваш город:</string>
+  <string name="refresh_measuring_button">Обновить</string>
+
+  <string name="city_name_minsk">Минск</string>
+  <string name="city_name_brest">Брест</string>
+  <string name="city_name_grodno">Гродно</string>
+  <string name="city_name_vitebsk">Витебск</string>
+  <string name="city_name_mogilev">Могилев</string>
+  <string name="city_name_gomel">Гомель</string>
+  <string name="city_name_mikashevichi">Микашевичи</string>
+</resources>
