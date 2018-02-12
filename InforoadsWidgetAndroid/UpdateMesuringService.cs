@@ -55,9 +55,9 @@ namespace InforoadsWidgetAndroid
                 var weatherImageId = ConvertDisPrecipitationToImageId(dis);
                 widgetView.SetImageViewResource(Resource.Id.widget_image, weatherImageId);
             }
-            catch(Exception e)
+            catch(Exception)
             {
-                widgetView.SetTextViewText(Resource.Id.widget_temperature, e.ToString());
+                widgetView.SetTextViewText(Resource.Id.widget_temperature, "%");
             }
 
             return widgetView;
